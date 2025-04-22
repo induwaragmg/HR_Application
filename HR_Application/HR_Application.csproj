@@ -20,12 +20,19 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
 	  <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="5.1.0" />
+	  <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <Resource Include="Assets\Images\login_page.png" />
 	  <Resource Include="Assets\Images\login_rec.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="ViewModel\" />
 	</ItemGroup>
 
 	<!-- Only keep this if you want to treat login_image.png as content -->

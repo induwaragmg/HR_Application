@@ -1,26 +1,36 @@
 ﻿using HR_Application.Model;
+using HR_Application.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BCrypt.Net;
+
 
 namespace HR_Application.Services
 {
-    class AuthService
+    public class AuthService
     {
-        // Stub: Replace with real DB lookup and password verification
-        public static User Authenticate(string username, string password)
+        private readonly IUserRepository _userRepository;
+
+        public AuthService(IUserRepository userRepository)
         {
-            // Example: hardcoded users for demo
-            if (username == "admin" && password == "adminpw")
-                return new User { Username = "admin", Role = "Admin" };
-            if (username == "hr" && password == "hrpw")
-                return new User { Username = "hr", Role = "HRManager" };
-            if (username == "emp" && password == "emppw")
-                return new User { Username = "emp", Role = "Employee" };
-            else
-                return null; // invalid
+            _userRepository = userRepository;
+        }
+
+        public User Authenticate(string username, string password)
+        {
+            // Fetch the user from the database
+            var user = _userRepository.GetUserByUsername(username);
+
+            if (user != null && BCrypt.Net.BCrypt.Verify(password, user.PasswordHash))
+            {
+                return user; // Successful authentication
+            }
+
+            return null; // Authentication failed
         }
     }
+
 }

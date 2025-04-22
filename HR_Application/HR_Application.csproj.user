@@ -2,16 +2,13 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="View\AdminDashboardPage.xaml.cs">
+    <Compile Update="View\AdminDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\EmployeeDashboardPage.xaml.cs">
+    <Compile Update="View\EmployeeDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\HRDashboardPage.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="View\LoginPage.xaml.cs">
+    <Compile Update="View\HRDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\LoginWindow.xaml.cs">

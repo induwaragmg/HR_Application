@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\App.xaml
-5-1891392575
+4-1682166657
 
-121335056508
-1981839832580
-MainWindow.xaml;View\AdminDashboardPage.xaml;View\EmployeeDashboardPage.xaml;View\HRDashboardPage.xaml;View\LoginPage.xaml;
+13-1918692780
+228-2074857992
+View\AdminDashboardWindow.xaml;View\EmployeeDashboardWindow.xaml;View\HRDashboardWindow.xaml;View\LoginWindow.xaml;
 
 True
 

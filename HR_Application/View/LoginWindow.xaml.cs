@@ -1,4 +1,5 @@
 ﻿using HR_Application.Services;
+using HR_Application.Utils;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
@@ -10,64 +11,91 @@ namespace HR_Application.View
     /// </summary>
     public partial class LoginWindow : Window
     {
-        public LoginWindow()
-        {
-            InitializeComponent();
-        }
-
-        //// ✅ Handles login button click
-        //private void Button_Click_1(object sender, RoutedEventArgs e)
+        //public LoginWindow()
         //{
-        //    string username = UsernameTextBox.Text; // ☑️ UsernameTextBox must exist in XAML
-        //    string password = PasswordBox.Password;
+        //    InitializeComponent();
+        //}
 
-        //    // ☑️ Simplified credential check (replace with real logic later)
-        //    if (username == "admin")
+        //private void Login_Button(object sender, RoutedEventArgs e)
+        //{
+        //    // Validate credentials
+        //    string username = UsernameTextBox.Text;
+        //    string password = PasswordBox.Password;
+        //    var authenticatedUser = AuthService.Authenticate(username, password);
+
+        //    if (authenticatedUser != null)
         //    {
-        //        OpenDashboard(new AdminDashboardPage());
-        //    }
-        //    else if (username == "hr")
-        //    {
-        //        OpenDashboard(new HRDashboardPage());
-        //    }
-        //    else if (username == "emp")
-        //    {
-        //        OpenDashboard(new EmployeeDashboardPage());
+        //        // Start a new session with the authenticated user
+        //        SessionManager.Login(authenticatedUser);
+
+        //        // Switch based on role to open the corresponding window
+        //        Window dashboardWindow = null;
+
+        //        switch (authenticatedUser.Role)
+        //        {
+        //            case "Admin":
+        //                dashboardWindow = new AdminDashboardWindow();
+        //                break;
+        //            case "HRManager":
+        //                dashboardWindow = new HRDashboardWindow();
+        //                break;
+        //            case "Employee":
+        //                dashboardWindow = new EmployeeDashboardWindow();
+        //                break;
+        //            default:
+        //                MessageBox.Show("Unknown user role.", "Access Denied", MessageBoxButton.OK, MessageBoxImage.Warning);
+        //                return;
+        //        }
+
+        //        dashboardWindow.Show();
+        //        this.Close();
         //    }
         //    else
         //    {
-        //        MessageBox.Show("Invalid credentials. Please try again.");
+        //        MessageBox.Show("Invalid username or password.", "Login Failed", MessageBoxButton.OK, MessageBoxImage.Error);
         //    }
         //}
 
+        private readonly AuthService _authService;
 
-
-        //// ✅ Method to open dashboard and close login window
-        //private void OpenDashboard(Page dashboardPage)
-        //{
-        //    MainWindow mainWindow = new MainWindow(); // Create main window instance
-        //    mainWindow.Show(); // Show main window
-        //    mainWindow.MainFrame.Navigate(dashboardPage); // Navigate to dashboard
-        //    this.Close(); // Close login window
-        //}
+        public LoginWindow(AuthService authService)
+        {
+            InitializeComponent();
+            _authService = authService;
+        }
 
         private void Login_Button(object sender, RoutedEventArgs e)
         {
-            // Validate credentials
             string username = UsernameTextBox.Text;
             string password = PasswordBox.Password;
-            var authenticatedUser = AuthService.Authenticate(username, password);
+
+            // Authenticate the user
+            var authenticatedUser = _authService.Authenticate(username, password);
 
             if (authenticatedUser != null)
             {
-                // Store user info globally
-                App.Current.Properties["User"] = authenticatedUser;
-                App.Current.Properties["Role"] = authenticatedUser.Role;
+                // Start a session with the authenticated user
+                SessionManager.Login(authenticatedUser);
 
-                // Navigate to MainWindow
-                MainWindow mainWindow = new MainWindow();
-                mainWindow.Show();
-                this.Close();
+                //***
+                // Open the corresponding dashboard based on the user's role
+                Window? dashboardWindow = authenticatedUser.Role switch
+                {
+                    "Admin" => new AdminDashboardWindow(),
+                    "HRManager" => new HRDashboardWindow(),
+                    "Employee" => new EmployeeDashboardWindow(),
+                    _ => null
+                };
+
+                if (dashboardWindow != null)
+                {
+                    dashboardWindow.Show();
+                    this.Close();
+                }
+                else
+                {
+                    MessageBox.Show("Unknown user role.", "Access Denied", MessageBoxButton.OK, MessageBoxImage.Warning);
+                }
             }
             else
             {
@@ -75,17 +103,15 @@ namespace HR_Application.View
             }
         }
 
+        
 
-        // ✅ Handle PasswordBox change (optional if you want real-time logic)
-       
-
-        // ✅ Close button (X icon) handler
+        // Close button (X icon) handler
         private void CloseWindow(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown(); // Shut down application
         }
 
-        // ✅ Make window draggable from canvas
+        // Make window draggable from canvas
         private void Canvas_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             this.DragMove(); // Enable window dragging
@@ -99,7 +125,7 @@ namespace HR_Application.View
             // Optionally, reset any other UI elements or states
         }
 
-        // 🔸 Username Placeholder Logic
+        // Username Placeholder Logic
         private void UsernameTextBox_GotFocus(object sender, RoutedEventArgs e)
         {
             UsernamePlaceholder2.Visibility = Visibility.Hidden; // hide on focus
@@ -120,7 +146,7 @@ namespace HR_Application.View
         }
 
 
-        // 🔸 Password Placeholder Logic
+        // Password Placeholder Logic
         private void PasswordBox_GotFocus(object sender, RoutedEventArgs e)
         {
             UsernamePlaceholder1.Visibility = Visibility.Hidden; // hide on focus
