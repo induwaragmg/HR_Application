@@ -9,6 +9,6 @@ namespace HR_Application.Repositories
 {
     public interface IUserRepository
     {
-        User GetUserByUsername(string username);
+        User GetUserByUsername(string Username);
     }
 }

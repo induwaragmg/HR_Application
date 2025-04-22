@@ -32,7 +32,7 @@ namespace HR_Application.Repositories
             User user = null;
 
             // Query to fetch user by username
-            string query = "SELECT Username, Role, PasswordHash FROM Users WHERE Username = @Username";
+            string query = "SELECT Username, Role, Password FROM RegisterUsers  WHERE Username = @Username";
 
             using (var connection = DbConnectionHelper.GetConnection())
             {
@@ -49,7 +49,7 @@ namespace HR_Application.Repositories
                             {
                                 Username = reader["Username"].ToString(),
                                 Role = reader["Role"].ToString(),
-                                PasswordHash = reader["PasswordHash"].ToString()
+                                Password = reader["Password"].ToString()
                             };
                         }
                     }

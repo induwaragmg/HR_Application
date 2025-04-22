@@ -8,9 +8,9 @@ namespace HR_Application.Model
 {
     public class User
     {
-        public string? Username { get; set; }
-        public string? Role { get; set; } // "Admin", "HRManager", "Employee"
+        public string Username { get; set; }
+        public string Role { get; set; } // "Admin", "HRManager", "Employee"
 
-        public string? PasswordHash { get; set; } // For storing hashed passwords
+        public string Password { get; set; } // For storing hashed passwords
     }
 }

@@ -21,7 +21,7 @@ namespace HR_Application.Data
 
     public static class DbConnectionHelper
     {
-        private const string ConnectionString = "Data Source=.\\SQLEXPRESS;Initial Catalog=HR_Application;Integrated Security=True";
+        private const string ConnectionString = "Server=DESKTOP-AANH3TO\\SQLEXPRESS;Database=HR_Application;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
 
         public static SqlConnection GetConnection()
         {
