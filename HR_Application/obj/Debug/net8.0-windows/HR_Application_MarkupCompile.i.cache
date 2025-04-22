@@ -1,0 +1,20 @@
+﻿HR_Application
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\
+HR_Application
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\App.xaml
+6-219993855
+
+161321947645
+200649328143
+MainWindow.xaml;View\AdminDashboardPage.xaml;View\EmployeeDashboardPage.xaml;View\HRDashboardPage.xaml;View\LoginPage.xaml;View\LoginWindow.xaml;
+
+True
+
