@@ -8,13 +8,13 @@ D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_A
 HR_Application
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\App.xaml
 6-219993855
 
-142007782110
-200649328143
+21-451613943
+4001298656286
 MainWindow.xaml;View\AdminDashboardPage.xaml;View\EmployeeDashboardPage.xaml;View\HRDashboardPage.xaml;View\LoginPage.xaml;View\LoginWindow.xaml;
 
-False
+True
 

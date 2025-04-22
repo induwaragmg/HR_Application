@@ -32,3 +32,4 @@ D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_A
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\HR_Application.csproj.AssemblyReference.cache
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\HR_Appli.AD0D3C49.Up2Date
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\HR_Application.sourcelink.json
