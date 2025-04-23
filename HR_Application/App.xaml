@@ -8,9 +8,15 @@
     xmlns:theme="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero2">
     <Application.Resources>
         <ResourceDictionary>
+            <!-- Define the BooleanToVisibilityConverter -->
+            <BooleanToVisibilityConverter x:Key="BoolToVis" />
+
+            <!-- Merge external ResourceDictionaries -->
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="View/GlobalStyles.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
+
+
 </Application>

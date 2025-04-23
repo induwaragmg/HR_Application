@@ -1,8 +1,13 @@
 ﻿
 FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\App.xaml;;
 FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\Admin_Role\AdminDashboardWindow.xaml;;
-FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\HRDashboardWindow.xaml;;
-FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\UserControls\dashboard.xaml;;
-FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\LoginWindow.xaml;;
 FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\Employee_Role\EmployeeDashboardWindow.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\HRDashboardWindow.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\LoginWindow.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\UserControls\EmployeeManagement.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\UserControls\Home.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\UserControls\AttendanceAndLeave.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\UserControls\PayrollManagement.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\UserControls\PerformanceAndReports.xaml;;
+FD:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\View\HR_Role\UserControls\Notifications.xaml;;
 

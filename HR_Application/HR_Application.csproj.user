@@ -11,7 +11,22 @@
     <Compile Update="View\HR_Role\HRDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\HR_Role\UserControls\dashboard.xaml.cs">
+    <Compile Update="View\HR_Role\UserControls\AttendanceAndLeave.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HR_Role\UserControls\EmployeeManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HR_Role\UserControls\Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HR_Role\UserControls\Notifications.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HR_Role\UserControls\PayrollManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HR_Role\UserControls\PerformanceAndReports.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\LoginWindow.xaml.cs">
