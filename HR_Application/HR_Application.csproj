@@ -33,6 +33,8 @@
 
 	<ItemGroup>
 	  <Folder Include="ViewModel\" />
+	  <Folder Include="View\Admin_Role\" />
+	  <Folder Include="View\Employee_Role\" />
 	</ItemGroup>
 
 	<!-- Only keep this if you want to treat login_image.png as content -->

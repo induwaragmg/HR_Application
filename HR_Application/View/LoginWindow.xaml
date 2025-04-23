@@ -39,7 +39,7 @@
                                     </Grid>
                                     <ControlTemplate.Triggers>
                                         <Trigger Property="IsMouseOver" Value="True">
-                                            <Setter TargetName="circle" Property="Fill" Value="#86efac"/>
+                                            <Setter TargetName="circle" Property="Fill" Value="{StaticResource PrimaryColor_300}"/>
                                         </Trigger>
                                     </ControlTemplate.Triggers>
                                 </ControlTemplate>
@@ -68,7 +68,7 @@
                                     </Grid>
                                     <ControlTemplate.Triggers>
                                         <Trigger Property="IsMouseOver" Value="True">
-                                            <Setter TargetName="circle" Property="Fill" Value="#86efac"/>
+                                            <Setter TargetName="circle" Property="Fill" Value="{StaticResource PrimaryColor_300}"/>
                                         </Trigger> 
                                     </ControlTemplate.Triggers>
                                 </ControlTemplate>
@@ -78,7 +78,7 @@
                 </Button.Style>
             </Button>
 
-            <Rectangle Width="881" Height="878" Fill="#a7f3d0" RadiusX="165.879" RadiusY="165.879"
+            <Rectangle Width="881" Height="878" Fill="{StaticResource PrimaryColor_200}" RadiusX="165.879" RadiusY="165.879"
                  Canvas.Left="265" Canvas.Top="-62" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Top" StrokeStartLineCap="Flat">
                 <Rectangle.RenderTransform>
                     <TransformGroup>
@@ -105,7 +105,7 @@
 
             <TextBox Canvas.Left="742" TextWrapping="Wrap" Text="Sign In" Canvas.Top="224" Width="182"
                 HorizontalAlignment="Left" VerticalAlignment="Center"
-                FontSize="53" FontWeight="Bold" Height="75" Foreground="#FF10B981"
+                FontSize="53" FontWeight="Bold" Height="75" Foreground="{StaticResource PrimaryColor}"
                 RenderTransformOrigin="0.723,-0.526">
                 <TextBox.Style>
                     <Style TargetType="TextBox">
@@ -194,7 +194,7 @@
                 <Button.Style>
                     <Style TargetType="Button">
                         <!-- 🔸 Default appearance -->
-                        <Setter Property="Background" Value="#FF10B981"/>
+                        <Setter Property="Background" Value="{StaticResource PrimaryColor}"/>
                         <Setter Property="Foreground" Value="White"/>
                         <Setter Property="Cursor" Value="Hand"/>
                         <Setter Property="BorderThickness" Value="0"/>
@@ -216,8 +216,8 @@
                         <!-- 🔸 Hover effect -->
                         <Style.Triggers>
                             <Trigger Property="IsMouseOver" Value="True">
-                                <Setter Property="Background" Value="#ecfdf5"/>
-                                <Setter Property="Foreground" Value="#FF10B981"/>
+                                <Setter Property="Background" Value="{StaticResource PrimaryColor_100}"/>
+                                <Setter Property="Foreground" Value="{StaticResource PrimaryColor}"/>
                             </Trigger>
                         </Style.Triggers>
                     </Style>
@@ -239,7 +239,7 @@
                         <Style TargetType="{x:Type Button}">
                             <!-- 🔸 Default appearance -->
 
-                            <Setter Property="Foreground" Value="#FF10B981"/>
+                            <Setter Property="Foreground" Value="{StaticResource PrimaryColor}"/>
                             <Setter Property="Cursor" Value="Hand"/>
                             <Setter Property="BorderThickness" Value="0"/>
 
@@ -259,7 +259,7 @@
                             <!-- 🔸 Hover effect -->
                             <Style.Triggers>
                                 <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Foreground" Value="#ecfdf5"/>
+                                    <Setter Property="Foreground" Value="{StaticResource Black_PrimaryColor}"/>
                                 </Trigger>
                             </Style.Triggers>
                         </Style>
