@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\App.xaml
-62018210581
+6756259639
 
-16591177949
+16356994154
 228-2074857992
-View\AdminDashboardWindow.xaml;View\EmployeeDashboardWindow.xaml;View\GlobalStyles.xaml;View\HR_Role\HRDashboardWindow.xaml;View\HR_Role\UserControls\dashboard.xaml;View\LoginWindow.xaml;
+View\Admin_Role\AdminDashboardWindow.xaml;View\Employee_Role\EmployeeDashboardWindow.xaml;View\GlobalStyles.xaml;View\HR_Role\HRDashboardWindow.xaml;View\HR_Role\UserControls\dashboard.xaml;View\LoginWindow.xaml;
 
-True
+False
 

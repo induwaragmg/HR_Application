@@ -2,10 +2,10 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="View\AdminDashboardWindow.xaml.cs">
+    <Compile Update="View\Admin_Role\AdminDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\EmployeeDashboardWindow.xaml.cs">
+    <Compile Update="View\Employee_Role\EmployeeDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\HR_Role\HRDashboardWindow.xaml.cs">
