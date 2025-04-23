@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\hrdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\employee_role\\employeedashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\employee_role\\employeedashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\hrdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,19 +52,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeDashboardWindow.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "RelativeToolTip": "HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T09:22:12.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T09:22:12.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HR_Application.csproj",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\HR_Application.csproj",
               "RelativeDocumentMoniker": "HR_Application\\HR_Application.csproj",
@@ -76,14 +75,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "dashboard.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\dashboard.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\dashboard.xaml",
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\dashboard.xaml",
               "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\dashboard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T08:00:56.451Z"
+              "WhenOpened": "2025-04-23T08:00:56.451Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -118,7 +118,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HRDashboardWindow.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml",

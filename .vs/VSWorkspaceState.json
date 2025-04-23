@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\HR_Application",
-    "\\HR_Application\\View"
+    "\\HR_Application\\View",
+    "\\HR_Application\\View\\HR_Role"
   ],
   "SelectedNode": "\\HR_Application.sln",
   "PreviewInSolutionExplorer": false
