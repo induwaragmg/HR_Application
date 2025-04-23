@@ -9,16 +9,6 @@ using Microsoft.Data.SqlClient;
 
 namespace HR_Application.Data
 {
-    //public class ApplicationDbContext : DbContext
-    //{
-    //    public DbSet<User> Users { get; set; }
-
-    //    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    //    {
-    //        optionsBuilder.UseSqlServer("Data Source=.\\SQLEXPRESS;Initial Catalog=HR_Application;Integrated Security=True");
-    //    }
-    //}
-
     public static class DbConnectionHelper
     {
         private const string ConnectionString = "Server=DESKTOP-AANH3TO\\SQLEXPRESS;Database=HR_Application;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";

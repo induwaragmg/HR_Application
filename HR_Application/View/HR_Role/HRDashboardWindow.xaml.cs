@@ -1,4 +1,5 @@
 ﻿using HR_Application.View.HR_Role.UserControls;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -13,6 +14,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using static HR_Application.View.HR_Role.UserControls.EmployeeManagement;
 
 namespace HR_Application.View
 {
@@ -24,6 +26,36 @@ namespace HR_Application.View
         public HRDashboardWindow()
         {
             InitializeComponent();
+            LoadHome(); // Default page
+        }
+
+        private void LoadHome()
+        {
+            MainContentArea.Content = new Home();
+        }
+
+        private void LoadEmployeeManagement()
+        {
+            MainContentArea.Content = new EmployeeManagement();
+        }
+
+        private void LoadAttendanceAndLeave()
+        {
+            MainContentArea.Content = new AttendanceAndLeave();
+        }
+
+        private void LoadPayrollManagement()
+        {
+            MainContentArea.Content = new PayrollManagement();
+        }
+
+        private void LoadPerformanceAndReports()
+        {
+            MainContentArea.Content = new PerformanceAndReports();
+        }
+        private void LoadNotifications()
+        {
+            MainContentArea.Content = new Notifications();
         }
 
         private bool IsMaximize = false;
@@ -77,6 +109,37 @@ namespace HR_Application.View
             {
                 this.WindowState = WindowState.Maximized;
             }
+        }
+
+
+        // Event handlers for menu buttons
+        private void HomeButton_Click(object sender, RoutedEventArgs e)
+        {
+            LoadHome();
+        }
+
+        private void EmployeeManagementButton_Click(object sender, RoutedEventArgs e)
+        {
+            LoadEmployeeManagement();
+        }
+
+        private void AttendanceAndLeaveButton_Click(object sender, RoutedEventArgs e)
+        {
+            LoadAttendanceAndLeave();
+        }
+
+        private void PayrollManagementButton_Click(object sender, RoutedEventArgs e)
+        {
+            LoadPayrollManagement();
+        }
+
+        private void PerformanceAndReportsButton_Click(object sender, RoutedEventArgs e)
+        {
+            LoadPerformanceAndReports();
+        }
+        private void NotificationsButton_Click(object sender, RoutedEventArgs e)
+        {
+            LoadNotifications();
         }
     }
 

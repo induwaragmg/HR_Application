@@ -9,22 +9,6 @@ using Microsoft.Data.SqlClient;
 
 namespace HR_Application.Repositories
 {
-    //public class UserRepository : IUserRepository
-    //{
-    //    private readonly ApplicationDbContext _context;
-
-    //    public UserRepository(ApplicationDbContext context)
-    //    {
-    //        _context = context;
-    //    }
-
-    //    public User GetUserByUsername(string username)
-    //    {
-    //        return _context.Users
-    //            .FirstOrDefault(u => u.Username.Equals(username, StringComparison.OrdinalIgnoreCase));
-    //    }
-    //}
-
     public class UserRepository : IUserRepository
     {
         public User GetUserByUsername(string username)

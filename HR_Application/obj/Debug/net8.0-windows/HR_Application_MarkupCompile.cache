@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\App.xaml
-111560226964
+12-136255136
 
-19-1039995636
+261878500099
 228-2074857992
-View\Admin_Role\AdminDashboardWindow.xaml;View\Employee_Role\EmployeeDashboardWindow.xaml;View\GlobalStyles.xaml;View\HR_Role\HRDashboardWindow.xaml;View\HR_Role\UserControls\AttendanceAndLeave.xaml;View\HR_Role\UserControls\EmployeeManagement.xaml;View\HR_Role\UserControls\Home.xaml;View\HR_Role\UserControls\Notifications.xaml;View\HR_Role\UserControls\PayrollManagement.xaml;View\HR_Role\UserControls\PerformanceAndReports.xaml;View\LoginWindow.xaml;
+View\Admin_Role\AdminDashboardWindow.xaml;View\EmployeeRegistrationWindow.xaml;View\Employee_Role\EmployeeDashboardWindow.xaml;View\GlobalStyles.xaml;View\HR_Role\HRDashboardWindow.xaml;View\HR_Role\UserControls\AttendanceAndLeave.xaml;View\HR_Role\UserControls\EmployeeManagement.xaml;View\HR_Role\UserControls\Home.xaml;View\HR_Role\UserControls\Notifications.xaml;View\HR_Role\UserControls\PayrollManagement.xaml;View\HR_Role\UserControls\PerformanceAndReports.xaml;View\LoginWindow.xaml;
 
 False
 

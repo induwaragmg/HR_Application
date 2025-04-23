@@ -90,6 +90,11 @@ namespace HR_Application.View.HR_Role.UserControls
             public string Phone { get; set; }
         }
 
+        private void addButton_Click(object sender, RoutedEventArgs e)
+        {
+            var registrationWindow = new EmployeeRegistrationWindow();
+            registrationWindow.ShowDialog();
+        }
 
     }
 }

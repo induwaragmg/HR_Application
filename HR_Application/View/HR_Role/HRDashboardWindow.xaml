@@ -24,7 +24,7 @@
 
         <Grid>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="200" />
+                <ColumnDefinition Width="230" />
                 <!--sidebar-->
                 <ColumnDefinition/>
 
@@ -67,38 +67,45 @@
 
                         <!--Menu buttons-->
                         <StackPanel DockPanel.Dock="Top">
-                            <Button Style="{StaticResource menuButton}">
+                            <Button Style="{StaticResource menuButton}" Click="HomeButton_Click">
                                 <StackPanel Orientation="Horizontal">
                                     <Icon:PackIconMaterial Kind="HomeVariant" Style="{StaticResource menuButtonIcon}"/>
-                                    <TextBlock Text="DashBoard" />
+                                    <TextBlock Text="Home" />
                                 </StackPanel>
                             </Button>
 
-                            <Button Style="{StaticResource menuButton}">
-                                <StackPanel Orientation="Horizontal">
-                                    <Icon:PackIconMaterial Kind="CalendarClock" Style="{StaticResource menuButtonIcon}"/>
-                                    <TextBlock Text="Events" />
-                                </StackPanel>
-                            </Button>
-
-                            <Button Style="{StaticResource menuButton}">
+                            <Button Style="{StaticResource menuButton}" Click="EmployeeManagementButton_Click">
                                 <StackPanel Orientation="Horizontal">
                                     <Icon:PackIconMaterial Kind="AccountMultipleOutline" Style="{StaticResource menuButtonIcon}"/>
-                                    <TextBlock Text="Members" />
+                                    <TextBlock Text="Employee Management" />
                                 </StackPanel>
                             </Button>
 
-                            <Button Style="{StaticResource menuButton}">
+                            <Button Style="{StaticResource menuButton}" Click="AttendanceAndLeaveButton_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="ArrowRightBox" Style="{StaticResource menuButtonIcon}"/>
+                                    <TextBlock Text="Attendance And Leave" />
+                                </StackPanel>
+                            </Button>
+
+                            <Button Style="{StaticResource menuButton}" Click="PayrollManagementButton_Click">
                                 <StackPanel Orientation="Horizontal">
                                     <Icon:PackIconMaterial Kind="CashMultiple" Style="{StaticResource menuButtonIcon}"/>
-                                    <TextBlock Text="Wallet" />
+                                    <TextBlock Text="Payroll Management" />
                                 </StackPanel>
                             </Button>
 
-                            <Button Style="{StaticResource menuButton}">
+                            <Button Style="{StaticResource menuButton}" Click="PerformanceAndReportsButton_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="ChartArc" Style="{StaticResource menuButtonIcon}"/>
+                                    <TextBlock Text="Performance And Reports" />
+                                </StackPanel>
+                            </Button>
+
+                            <Button Style="{StaticResource menuButton}" Click="NotificationsButton_Click">
                                 <StackPanel Orientation="Horizontal">
                                     <Icon:PackIconMaterial Kind="ForumOutline" Style="{StaticResource menuButtonIcon}"/>
-                                    <TextBlock Text="Messages" />
+                                    <TextBlock Text="Notifications" />
                                 </StackPanel>
                             </Button>
 
@@ -168,6 +175,7 @@
 
                 <!--<local:dashboard Grid.Row="2" />-->
                 <localusercontrol:EmployeeManagement x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />
+                <ContentControl x:Name="MainContentArea" Grid.Row="2" />
 
             </Grid>
 

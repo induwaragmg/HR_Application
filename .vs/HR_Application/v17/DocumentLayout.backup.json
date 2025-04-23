@@ -3,16 +3,108 @@
   "WorkspaceRootPath": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\hrdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\employeeregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\employeeregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\employeeregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\employeeregistrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\employeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\employeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\data\\insertemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\data\\insertemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\employeemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\employeemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\employeemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\employeemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\hr_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\hr_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\globalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\globalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\payrollmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\payrollmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\performanceandreports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\performanceandreports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\performanceandreports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,42 +123,6 @@
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\employeemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\employeemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\performanceandreports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\performanceandreports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\payrollmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\payrollmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\attendanceandleave.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\usercontrols\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\usercontrols\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\globalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\globalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -82,20 +138,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 24,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "HRDashboardWindow.xaml.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml.cs",
               "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml.cs",
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml.cs",
               "RelativeToolTip": "HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAwJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T11:09:09.398Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:18:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HR_Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "HR_Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:17:54.775Z",
               "EditorCaption": ""
             },
             {
@@ -104,7 +186,174 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "HR_Application\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "HR_Application\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:48:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRegistrationWindow.xaml",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\EmployeeRegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "HR_Application\\View\\EmployeeRegistrationWindow.xaml",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\EmployeeRegistrationWindow.xaml",
+              "RelativeToolTip": "HR_Application\\View\\EmployeeRegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:52:22.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "HR_Application\\View\\LoginWindow.xaml",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml",
+              "RelativeToolTip": "HR_Application\\View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:06:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRegistrationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\EmployeeRegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\EmployeeRegistrationWindow.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\EmployeeRegistrationWindow.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\EmployeeRegistrationWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:06:41.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordBoxHelper.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\PasswordBoxHelper.cs",
+              "RelativeDocumentMoniker": "HR_Application\\ViewModel\\PasswordBoxHelper.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\PasswordBoxHelper.cs",
+              "RelativeToolTip": "HR_Application\\ViewModel\\PasswordBoxHelper.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:48:46.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genders.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\Genders.cs",
+              "RelativeDocumentMoniker": "HR_Application\\ViewModel\\Genders.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\Genders.cs",
+              "RelativeToolTip": "HR_Application\\ViewModel\\Genders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:13:56.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\EmployeeRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "HR_Application\\ViewModel\\EmployeeRegistrationViewModel.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\EmployeeRegistrationViewModel.cs",
+              "RelativeToolTip": "HR_Application\\ViewModel\\EmployeeRegistrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:46:33.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HR_Application\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HR_Application\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:51:17.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HR_Application\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "HR_Application\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:51:14.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Model\\User.cs",
+              "RelativeDocumentMoniker": "HR_Application\\Model\\User.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Model\\User.cs",
+              "RelativeToolTip": "HR_Application\\Model\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:32:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "HR_Application\\Model\\Employee.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Model\\Employee.cs",
+              "RelativeToolTip": "HR_Application\\Model\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:44:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "HR_Application\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "HR_Application\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:51:30.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InsertEmployee.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Data\\InsertEmployee.cs",
+              "RelativeDocumentMoniker": "HR_Application\\Data\\InsertEmployee.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Data\\InsertEmployee.cs",
+              "RelativeToolTip": "HR_Application\\Data\\InsertEmployee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxAAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:31:12.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "EmployeeManagement.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml",
@@ -116,59 +365,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
+              "Title": "EmployeeManagement.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:06:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "HR_Application.csproj",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\HR_Application.csproj",
               "RelativeDocumentMoniker": "HR_Application\\HR_Application.csproj",
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\HR_Application.csproj",
               "RelativeToolTip": "HR_Application\\HR_Application.csproj",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-23T08:24:42.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PerformanceAndReports.xaml.cs",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:16:26.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PayrollManagement.xaml.cs",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:16:22.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Notifications.xaml.cs",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:16:06.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "AttendanceAndLeave.xaml.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml.cs",
               "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml.cs",
@@ -181,81 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home.xaml.cs",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:15:48.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeManagement.xaml.cs",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\EmployeeManagement.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T15:06:19.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Notifications.xaml",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T17:15:43.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PerformanceAndReports.xaml",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T17:15:01.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PayrollManagement.xaml",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T17:11:27.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AttendanceAndLeave.xaml",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T17:10:14.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Home.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Home.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\Home.xaml",
@@ -267,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "GlobalStyles.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\GlobalStyles.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\GlobalStyles.xaml",
@@ -279,7 +428,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
+              "Title": "PerformanceAndReports.xaml",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T17:15:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Notifications.xaml",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T17:15:43.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PayrollManagement.xaml",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T17:11:27.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttendanceAndLeave.xaml",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\AttendanceAndLeave.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T17:10:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PerformanceAndReports.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PerformanceAndReports.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:16:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PayrollManagement.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\PayrollManagement.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:16:22.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Notifications.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\Notifications.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:16:06.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\HR_Role\\UserControls\\Home.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:15:48.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\App.xaml",
               "RelativeDocumentMoniker": "HR_Application\\App.xaml",
@@ -291,15 +536,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "EmployeeDashboardWindow.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "RelativeToolTip": "HR_Application\\View\\Employee_Role\\EmployeeDashboardWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T09:22:12.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T09:22:12.637Z"
             }
           ]
         },
@@ -310,39 +554,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "df7d8126-13eb-44dc-9934-57c2e03fa337",
-        "Display": 1,
-        "X": -5,
-        "Y": 53,
-        "Width": 977,
-        "Height": 559,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HRDashboardWindow.xaml",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml",
-              "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml*",
-              "RelativeToolTip": "HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T15:50:46.094Z",
-              "EditorCaption": ""
             }
           ]
         }

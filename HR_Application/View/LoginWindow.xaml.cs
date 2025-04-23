@@ -6,9 +6,6 @@ using System.Windows.Input;
 
 namespace HR_Application.View
 {
-    /// <summary>
-    /// Interaction logic for LoginWindow.xaml
-    /// </summary>
     public partial class LoginWindow : Window
     {
  
@@ -33,7 +30,6 @@ namespace HR_Application.View
                 // Start a session with the authenticated user
                 SessionManager.Login(authenticatedUser);
 
-                //***
                 // Open the corresponding dashboard based on the user's role
                 Window? dashboardWindow = authenticatedUser.Role switch
                 {
@@ -61,7 +57,7 @@ namespace HR_Application.View
 
         
 
-        // Close button (X icon) handler
+        // Close button handler
         private void CloseWindow(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown(); // Shut down application

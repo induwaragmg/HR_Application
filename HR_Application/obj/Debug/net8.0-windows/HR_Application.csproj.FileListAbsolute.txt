@@ -96,3 +96,5 @@ D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_A
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HR_Role\UserControls\PayrollManagement.baml
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HR_Role\UserControls\PerformanceAndReports.baml
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HR_Role\UserControls\Notifications.baml
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\EmployeeRegistrationWindow.g.cs
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\EmployeeRegistrationWindow.baml

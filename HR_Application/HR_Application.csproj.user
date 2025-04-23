@@ -5,6 +5,9 @@
     <Compile Update="View\Admin_Role\AdminDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\EmployeeRegistrationWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\Employee_Role\EmployeeDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

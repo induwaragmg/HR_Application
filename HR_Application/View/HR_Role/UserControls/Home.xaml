@@ -6,7 +6,11 @@
              xmlns:local="clr-namespace:HR_Application.View.HR_Role.UserControls"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-        <TextBlock Text="This is the Home" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto " />
+            <RowDefinition Height="auto " />
+        </Grid.RowDefinitions>
+            <TextBlock Text="Hello " FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center" />
     </Grid>
 </UserControl>

@@ -32,7 +32,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="ViewModel\" />
 	  <Folder Include="View\Admin_Role\UserControls\" />
 	  <Folder Include="View\Employee_Role\UserControls\" />
 	</ItemGroup>

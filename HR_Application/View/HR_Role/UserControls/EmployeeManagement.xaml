@@ -23,15 +23,15 @@
         </Grid.RowDefinitions>
 
         <!--page Title-->
-        <TextBlock Text="Members" Grid.Row="0" FontSize="32" FontWeight="SemiBold" Margin="0 20 0 0"
+        <TextBlock Text="Employee Management" Grid.Row="0" FontSize="32" FontWeight="SemiBold" Margin="0 20 0 0"
            HorizontalAlignment="Left" Foreground="#121518"/>
 
 
         <!--Add Button-->
-        <Button  Grid.Row="0" Style="{StaticResource addButton}">
+        <Button  Grid.Row="0" Style="{StaticResource addButton}" Click="addButton_Click">
             <StackPanel Orientation="Horizontal">
                 <Icon:PackIconMaterial Kind="Plus" VerticalAlignment="Center" Width="11" Height="11" Margin="0 1 8 0"/>
-                <TextBlock Text="Add New Member"/>
+                <TextBlock Text="Add New Employee"/>
             </StackPanel>
         </Button>
 
@@ -103,8 +103,8 @@
                                 <Button Style="{StaticResource gridEditButton}">
                                     <Icon:PackIconMaterial Kind="PencilOutline" Style="{StaticResource gridButtonIcon}"/>
                                 </Button>
-                                <Button Style="{StaticResource gridRemoveButton}" Margin="5 0 0 0">
-                                    <Icon:PackIconMaterial Kind="PencilOutline" Style="{StaticResource gridButtonIcon}"/>
+                                <Button Style="{StaticResource gridRemoveButton}" Margin="10 0 0 0">
+                                    <Icon:PackIconMaterial Kind="Delete" Style="{StaticResource gridButtonIcon}"/>
                                 </Button>
                             </StackPanel>
                         </DataTemplate>
