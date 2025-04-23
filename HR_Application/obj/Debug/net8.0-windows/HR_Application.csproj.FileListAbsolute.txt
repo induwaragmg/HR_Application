@@ -25,9 +25,7 @@ D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_A
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\HR_Application.sourcelink.json
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\AdminDashboardWindow.g.cs
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\EmployeeDashboardWindow.g.cs
-D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HRDashboardWindow.g.cs
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\AdminDashboardWindow.baml
-D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HRDashboardWindow.baml
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\EmployeeDashboardWindow.baml
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\bin\Debug\net8.0-windows\Azure.Core.dll
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\bin\Debug\net8.0-windows\Azure.Identity.dll
@@ -82,3 +80,7 @@ D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_A
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\App.baml
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HR_Role\HRDashboardWindow.g.cs
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HR_Role\HRDashboardWindow.baml
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HR_Role\UserControls\dashboard.g.cs
+D:\lessons\2nd year 2nd sem\visual programming\group_project\HR_Application\HR_Application\obj\Debug\net8.0-windows\View\HR_Role\UserControls\dashboard.baml

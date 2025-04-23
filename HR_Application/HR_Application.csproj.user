@@ -8,7 +8,10 @@
     <Compile Update="View\EmployeeDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\HRDashboardWindow.xaml.cs">
+    <Compile Update="View\HR_Role\HRDashboardWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HR_Role\UserControls\dashboard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\LoginWindow.xaml.cs">
