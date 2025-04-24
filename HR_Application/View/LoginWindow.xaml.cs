@@ -1,5 +1,7 @@
-﻿using HR_Application.Services;
+﻿using HR_Application.Model;
+using HR_Application.Services;
 using HR_Application.Utils;
+using HR_Application.ViewModel;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
@@ -29,7 +31,7 @@ namespace HR_Application.View
             {
                 // Start a session with the authenticated user
                 SessionManager.Login(authenticatedUser);
-
+                
                 // Open the corresponding dashboard based on the user's role
                 Window? dashboardWindow = authenticatedUser.Role switch
                 {
@@ -41,9 +43,11 @@ namespace HR_Application.View
 
                 if (dashboardWindow != null)
                 {
+                    dashboardWindow.DataContext = new DashboardViewModel(authenticatedUser); // ✅ passing user to ViewModel
                     dashboardWindow.Show();
                     this.Close();
                 }
+
                 else
                 {
                     MessageBox.Show("Unknown user role.", "Access Denied", MessageBoxButton.OK, MessageBoxImage.Warning);

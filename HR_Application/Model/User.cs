@@ -10,7 +10,8 @@ namespace HR_Application.Model
     {
         public string Username { get; set; }
         public string Role { get; set; } // "Admin", "HRManager", "Employee"
-
         public string Password { get; set; } // For storing hashed passwords
+        public string FirstName { get; set; } 
+        public string LastName { get; set; }
     }
 }

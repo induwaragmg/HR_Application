@@ -3,6 +3,7 @@
     "",
     "\\HR_Application",
     "\\HR_Application\\View",
+    "\\HR_Application\\ViewModel",
     "\\HR_Application\\View\\HR_Role",
     "\\HR_Application\\View\\HR_Role\\UserControls"
   ],

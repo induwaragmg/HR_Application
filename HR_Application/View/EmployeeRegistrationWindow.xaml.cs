@@ -27,10 +27,7 @@ namespace HR_Application.View
 
         private void OnDataContextChanged(object sender, DependencyPropertyChangedEventArgs e)
         {
-            if (DataContext is EmployeeRegistrationViewModel viewModel)
-            {
-                
-            }
+            
         }
     }
 }

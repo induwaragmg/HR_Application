@@ -16,11 +16,25 @@ namespace HR_Application.ViewModel
     {
         private Employee _employee = new Employee();
 
+        public EmployeeRegistrationViewModel()
+        {
+            // Set default to today's date
+            DateOfBirth = DateTime.Today;
+            JoiningDate = DateTime.Today;
+            SaveCommand = new RelayCommand(SaveEmployee);
+
+        }
+
         // Properties for Binding
         public string FirstName
         {
             get => _employee.FirstName;
             set { _employee.FirstName = value; OnPropertyChanged(); }
+        }
+        public string LastName
+        {
+            get => _employee.LastName;
+            set { _employee.LastName = value; OnPropertyChanged(); }
         }
 
         public string Email
@@ -53,16 +67,32 @@ namespace HR_Application.ViewModel
             set { _employee.Salary = value; OnPropertyChanged(); }
         }
 
+        
         public DateTime DateOfBirth
         {
             get => _employee.DateOfBirth;
-            set { _employee.DateOfBirth = value; OnPropertyChanged(); }
+            set
+            {
+                if (_employee.DateOfBirth != value)
+                {
+                    _employee.DateOfBirth = value;
+                    OnPropertyChanged();
+                }
+            }
         }
+        //public DateTime DateOfBirth
+        //{
+        //    get => _employee.DateOfBirth;
+        //    set { _employee.DateOfBirth = value; OnPropertyChanged(); }
+        //}
+
+
 
         public DateTime JoiningDate
         {
             get => _employee.JoiningDate;
             set { _employee.JoiningDate = value; OnPropertyChanged(); }
+
         }
 
         public string ProfilePicturePath
@@ -71,17 +101,17 @@ namespace HR_Application.ViewModel
             set { _employee.ProfilePicturePath = value; OnPropertyChanged(); }
         }
 
-        public string Username
-        {
-            get => _employee.Username;
-            set { _employee.Username = value; OnPropertyChanged(); }
-        }
+        //public string Username
+        //{
+        //    get => _employee.Username;
+        //    set { _employee.Username = value; OnPropertyChanged(); }
+        //}
 
-        public string Password
-        {
-            get => _employee.Password;
-            set { _employee.Password = value; OnPropertyChanged(); }
-        }
+        //public string Password
+        //{
+        //    get => _employee.Password;
+        //    set { _employee.Password = value; OnPropertyChanged(); }
+        //}
 
         public string Role
         {
@@ -104,26 +134,26 @@ namespace HR_Application.ViewModel
         // Command to Save Employee
         public ICommand SaveCommand { get; }
 
-        public EmployeeRegistrationViewModel()
-        {
-            SaveCommand = new RelayCommand(SaveEmployee);
-        }
+    
         private void SaveEmployee()
         {
             if (string.IsNullOrWhiteSpace(FirstName) ||
-                string.IsNullOrWhiteSpace(Email) ||
-                string.IsNullOrWhiteSpace(Password))
+                string.IsNullOrWhiteSpace(LastName) ||
+                string.IsNullOrWhiteSpace(Email) )
             {
                 System.Windows.MessageBox.Show("Please fill in all required fields.", "Validation Error", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Warning);
                 return;
             }
+
+            _employee.Username = FirstName;
+            _employee.Password = FirstName;
 
             try
             {
                 InsertEmployee.InsertEmployeeDB(_employee);
                 System.Windows.MessageBox.Show("Employee registered successfully!", "Success", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Information);
             }
-            //In InsertEmployee.cs, enhance error logging
+
             catch (Exception ex)
             {
                 System.Diagnostics.Debug.WriteLine($"DB Error: {ex.Message}\n{ex.StackTrace}"); // DEBUG log

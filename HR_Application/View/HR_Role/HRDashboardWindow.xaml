@@ -20,7 +20,8 @@
 
     </Window.Resources>
 
-    <Border Background="#eff2f7" CornerRadius="30" MouseDown="Border_MouseDown" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+    <!--eff2f7-->
+    <Border Background="#f5f6fa" CornerRadius="30" MouseDown="Border_MouseDown" MouseLeftButtonDown="Border_MouseLeftButtonDown">
 
         <Grid>
             <Grid.ColumnDefinitions>
@@ -38,7 +39,7 @@
                 </Grid.RowDefinitions>
 
                 <!--Menu icon-->
-                <Button Style="{StaticResource topButton}" Margin="20 28 0 35">
+                <Button Style="{StaticResource topButton}" Margin="20 28 0 10">
                     <Icon:PackIconMaterial Kind="Menu" Width="15" Height="15"/>
                 </Button>
 
@@ -46,8 +47,8 @@
                     <DockPanel>
                         <!--Menu Logo-->
 
-                        <Border Width="80" Height="80" Padding="3" Background="White" CornerRadius="100"
-                        DockPanel.Dock="Top" HorizontalAlignment="Left" Margin="20 -30 0 0">
+                        <Border Width="70" Height="70" Padding="3" Background="White" CornerRadius="100"
+                        DockPanel.Dock="Top" HorizontalAlignment="Center" Margin="0 20 0 0">
                             <Ellipse>
                                 <Ellipse.Fill>
                                     <ImageBrush  ImageSource="/Assets/Images/login_page.png" />
@@ -57,9 +58,21 @@
 
                         <!--MENU TITLE-->
 
-                        <TextBlock Text="Silvers Club" Foreground="{StaticResource White_PrimaryColor}" FontSize="22" FontWeight="SemiBold"
-                               DockPanel.Dock="Top" TextAlignment="Center" Margin="5 25 0 10" />
-                        <TextBlock Text="Members, France" Foreground="{StaticResource White_PrimaryColor}" FontSize="14" FontWeight="SemiBold"
+                       
+                        <TextBlock Foreground="{StaticResource White_PrimaryColor}"
+                                   FontSize="22"
+                                   FontWeight="SemiBold"
+                                   DockPanel.Dock="Top"
+                                   TextAlignment="Center"
+                                   Margin="5 15 0 10">
+                            <TextBlock.Text>
+                                <MultiBinding StringFormat="{}{0} {1}">
+                                    <Binding Path="CurrentUser.FirstName"/>
+                                    <Binding Path="CurrentUser.LastName"/>
+                                </MultiBinding>
+                            </TextBlock.Text>
+                        </TextBlock>        
+                        <TextBlock Text="{Binding CurrentUser.Role}" Foreground="{StaticResource White_PrimaryColor}" FontSize="14" FontWeight="SemiBold"
                                 DockPanel.Dock="Top" TextAlignment="Center" />
 
                         <!--Menu seporator-->
@@ -104,7 +117,7 @@
 
                             <Button Style="{StaticResource menuButton}" Click="NotificationsButton_Click">
                                 <StackPanel Orientation="Horizontal">
-                                    <Icon:PackIconMaterial Kind="ForumOutline" Style="{StaticResource menuButtonIcon}"/>
+                                    <Icon:PackIconMaterial Kind="Bell" Style="{StaticResource menuButtonIcon}"/>
                                     <TextBlock Text="Notifications" />
                                 </StackPanel>
                             </Button>
@@ -173,8 +186,12 @@
 
                 </Button>
 
-                <!--<local:dashboard Grid.Row="2" />-->
-                <localusercontrol:EmployeeManagement x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />
+                <!--<localusercontrol:Home x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />-->
+                <!--<localusercontrol:EmployeeManagement x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />-->
+                <!--<localusercontrol:Home x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />-->
+                <!--<localusercontrol:Home x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />-->
+                <!--<localusercontrol:Home x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />-->
+                <!--<localusercontrol:Home x:Name="EmployeeManagement" Grid.Row="2"   Margin="0,0,0,0" />-->
                 <ContentControl x:Name="MainContentArea" Grid.Row="2" />
 
             </Grid>

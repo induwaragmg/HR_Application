@@ -18,10 +18,10 @@ namespace HR_Application.Data
                 string query = @"
                     INSERT INTO RegisterUsers (
                         FirstName, Email, PhoneNumber, Department, Position, Salary, 
-                        DateOfBirth, JoiningDate, ProfilePicturePath, Username, Password, Role, Gender, Address
+                        DateOfBirth, JoiningDate, Username, Password, Role, Gender, Address, LastName
                     ) VALUES (
                         @FirstName, @Email, @PhoneNumber, @Department, @Position, @Salary, 
-                        @DateOfBirth, @JoiningDate, @ProfilePicturePath, @Username, @Password, @Role, @Gender, @Address
+                        @DateOfBirth, @JoiningDate, @Username, @Password, @Role, @Gender, @Address ,@LastName
                     )";
 
 
@@ -36,12 +36,13 @@ namespace HR_Application.Data
                     command.Parameters.AddWithValue("@Salary", employee.Salary);
                     command.Parameters.AddWithValue("@DateOfBirth", employee.DateOfBirth);
                     command.Parameters.AddWithValue("@JoiningDate", employee.JoiningDate);
-                    command.Parameters.AddWithValue("@ProfilePicturePath", employee.ProfilePicturePath);
+                    //command.Parameters.AddWithValue("@ProfilePicturePath", employee.ProfilePicturePath);
                     command.Parameters.AddWithValue("@Username", employee.Username);
                     command.Parameters.AddWithValue("@Password", employee.Password);
                     command.Parameters.AddWithValue("@Role", employee.Role);
                     command.Parameters.AddWithValue("@Gender", employee.Gender);
                     command.Parameters.AddWithValue("@Address", employee.Address);
+                    command.Parameters.AddWithValue("@LastName", employee.LastName);
 
                     connection.Open();
                     command.ExecuteNonQuery();

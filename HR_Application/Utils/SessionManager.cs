@@ -38,6 +38,7 @@ namespace HR_Application.Utils
         // Logout method to end the session
         public static void Logout()
         {
+
             _currentUser = null;
             _sessionStartTime = DateTime.MinValue; // Reset session time
         }
