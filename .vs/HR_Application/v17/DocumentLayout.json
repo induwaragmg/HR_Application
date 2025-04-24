@@ -7,12 +7,19 @@
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\employeeregistrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\employeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\employeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\dropdownlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\dropdownlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\employeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\employeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,13 +64,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\viewmodel\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\viewmodel\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|solutionrelative:hr_application\\view\\hr_role\\hrdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D790CAF7-AA90-47CC-ADA8-A31AA3911DFA}|HR_Application\\HR_Application.csproj|d:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\hr_application\\hr_application\\utils\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -157,7 +157,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "HRDashboardWindow.xaml.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml.cs",
               "RelativeDocumentMoniker": "HR_Application\\View\\HR_Role\\HRDashboardWindow.xaml.cs",
@@ -173,21 +173,12 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HR_Application\\View\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "HR_Application\\View\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAC0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T22:18:28.732Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DropDownLists.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\DropDownLists.cs",
               "RelativeDocumentMoniker": "HR_Application\\ViewModel\\DropDownLists.cs",
@@ -195,12 +186,11 @@
               "RelativeToolTip": "HR_Application\\ViewModel\\DropDownLists.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T20:13:56.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T20:13:56.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EmployeeRegistrationViewModel.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\EmployeeRegistrationViewModel.cs",
               "RelativeDocumentMoniker": "HR_Application\\ViewModel\\EmployeeRegistrationViewModel.cs",
@@ -208,8 +198,7 @@
               "RelativeToolTip": "HR_Application\\ViewModel\\EmployeeRegistrationViewModel.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAuwJQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:46:33.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:46:33.65Z"
             },
             {
               "$type": "Document",
@@ -219,14 +208,26 @@
               "RelativeDocumentMoniker": "HR_Application\\View\\EmployeeRegistrationWindow.xaml.cs",
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\EmployeeRegistrationWindow.xaml.cs",
               "RelativeToolTip": "HR_Application\\View\\EmployeeRegistrationWindow.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T20:06:41.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HR_Application\\View\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HR_Application\\View\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:18:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "HR_Application\\Services\\AuthService.cs",
@@ -234,12 +235,11 @@
               "RelativeToolTip": "HR_Application\\Services\\AuthService.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T22:17:54.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:17:54.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "InsertEmployee.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Data\\InsertEmployee.cs",
               "RelativeDocumentMoniker": "HR_Application\\Data\\InsertEmployee.cs",
@@ -247,12 +247,11 @@
               "RelativeToolTip": "HR_Application\\Data\\InsertEmployee.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T20:31:12.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T20:31:12.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EmployeeMapper.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Data\\EmployeeMapper.cs",
               "RelativeDocumentMoniker": "HR_Application\\Data\\EmployeeMapper.cs",
@@ -260,12 +259,11 @@
               "RelativeToolTip": "HR_Application\\Data\\EmployeeMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:15:41.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T11:15:41.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "HR_Application\\Model\\Employee.cs",
@@ -273,12 +271,11 @@
               "RelativeToolTip": "HR_Application\\Model\\Employee.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA7wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:44:57.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:44:57.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EmployeeDataAccess.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Data\\EmployeeDataAccess.cs",
               "RelativeDocumentMoniker": "HR_Application\\Data\\EmployeeDataAccess.cs",
@@ -286,12 +283,11 @@
               "RelativeToolTip": "HR_Application\\Data\\EmployeeDataAccess.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:18:23.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T11:18:23.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "HR_Application\\ViewModel\\DashboardViewModel.cs",
@@ -299,12 +295,11 @@
               "RelativeToolTip": "HR_Application\\ViewModel\\DashboardViewModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:02:44.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T08:02:44.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\Model\\User.cs",
               "RelativeDocumentMoniker": "HR_Application\\Model\\User.cs",
@@ -312,24 +307,22 @@
               "RelativeToolTip": "HR_Application\\Model\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T21:32:54.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T21:32:54.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "EmployeeRegistrationWindow.xaml",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\EmployeeRegistrationWindow.xaml",
               "RelativeDocumentMoniker": "HR_Application\\View\\EmployeeRegistrationWindow.xaml",
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\EmployeeRegistrationWindow.xaml",
               "RelativeToolTip": "HR_Application\\View\\EmployeeRegistrationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T19:52:22.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:52:22.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\RelayCommand.cs",
               "RelativeDocumentMoniker": "HR_Application\\ViewModel\\RelayCommand.cs",
@@ -337,12 +330,11 @@
               "RelativeToolTip": "HR_Application\\ViewModel\\RelayCommand.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:48:50.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:48:50.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PasswordBoxHelper.cs",
               "DocumentMoniker": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\ViewModel\\PasswordBoxHelper.cs",
               "RelativeDocumentMoniker": "HR_Application\\ViewModel\\PasswordBoxHelper.cs",
@@ -350,8 +342,7 @@
               "RelativeToolTip": "HR_Application\\ViewModel\\PasswordBoxHelper.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAC8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T21:48:46.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T21:48:46.749Z"
             },
             {
               "$type": "Document",
@@ -396,8 +387,7 @@
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\View\\LoginWindow.xaml",
               "RelativeToolTip": "HR_Application\\View\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T19:06:54.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:06:54.426Z"
             },
             {
               "$type": "Document",
@@ -460,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -582,8 +572,7 @@
               "ToolTip": "D:\\lessons\\2nd year 2nd sem\\visual programming\\group_project\\HR_Application\\HR_Application\\App.xaml",
               "RelativeToolTip": "HR_Application\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T15:26:02.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T15:26:02.6Z"
             },
             {
               "$type": "Document",
