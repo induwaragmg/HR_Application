@@ -146,7 +146,9 @@ namespace HR_Application.ViewModel
             }
 
             _employee.Username = FirstName;
-            _employee.Password = FirstName;
+            string plainPassword = FirstName;
+            // Encrypt password using BCrypt before storing
+            _employee.Password = BCrypt.Net.BCrypt.HashPassword(plainPassword);
 
             try
             {
