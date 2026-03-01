@@ -9,8 +9,8 @@
        WindowStyle="None"
        AllowsTransparency="True" Background="Transparent"
        Title="LoginWindow" Height="751" Width="1080"
-       WindowStartupLocation="CenterScreen"
        ResizeMode="NoResize">
+       <!--WindowStartupLocation="CenterScreen"-->
 
     <Border  Background="#ecfdf5" 
            CornerRadius="40"  MouseLeftButtonDown="Canvas_MouseLeftButtonDown" >
